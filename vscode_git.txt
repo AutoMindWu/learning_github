@@ -1,1 +1,1 @@
-git_VSCode
+git_vscode
